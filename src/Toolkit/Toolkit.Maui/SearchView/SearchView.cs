@@ -27,7 +27,6 @@ using Esri.ArcGISRuntime.UI;
 using Grid = Microsoft.Maui.Controls.Grid;
 
 namespace Esri.ArcGISRuntime.Toolkit.Maui;
-
 /// <summary>
 /// View for searching with locators and custom search sources.
 /// </summary>
